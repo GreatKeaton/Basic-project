@@ -1,3 +1,9 @@
+ul{
+  list-style:  none;
+}
+input, select, a, button{
+  outline: none;
+}
 /* 定位 */
 .relative {
   position: relative;
